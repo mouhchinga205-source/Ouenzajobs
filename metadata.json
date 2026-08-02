@@ -1,0 +1,6 @@
+{
+  "name": "ونزة جوبس - Ouenza Jobs",
+  "description": "منصة رقمية مجانية تجمع أصحاب وصاحبات الحرف والمهن والخدمات في منطقة ونزة، لتسهيل التواصل المباشر وعرض الإعلانات والعروض.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
